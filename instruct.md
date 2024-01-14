@@ -23,6 +23,11 @@ ls
 git config --global user.name
 git config --global user.email
 ```
+Проверка имени и почты. 
+```sh
+git config user.name
+git config user.email
+```
 
 Удаление файла с репозитория
 
